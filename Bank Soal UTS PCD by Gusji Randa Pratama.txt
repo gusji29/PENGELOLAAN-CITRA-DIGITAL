@@ -1,0 +1,129 @@
+Nama : Gusji Randa Pratama
+NPM : 011180206
+
+Soal Pilihan Ganda (single/jomblo choice)
+
+1. Untuk memetakan citra masukan yang memiliki rentang nilai keabuan yang
+sempit menjadi citra luaran yang memiliki rentang keabuan yang lebih
+lebar, maka kita menggunakan:
+a.Transformasi log
+b.Transformasi pangkat (power-law)
+c.Transformasi inverse-log
+d.Transformasi identitas
+e.Transformasi akar-pangkat
+Tidak ada jawaban yang benar
+
+Jawaban : a
+
+2. Sebuah citra 8-bit memiliki nilai keabuan yang terdistribusi uniform dalam
+rentang nilai 160 sampai 220. Operasi citra negatif menghasilkan citra
+dengan nilai keabuan:
+a.60 sampai 80, citra menjadi lebih gelap
+b.60 sampai 80, citra menjadi lebih terang
+c.35 sampai 95, citra menjadi lebih gelap
+d.35 sampai 95, citra menjadi lebih terang
+e.Tidak ada jawaban yang benar
+
+Jawaban :c
+
+3. Berkaitan dengan soal di atas, operasi pengambangan (thresholding)
+dengan T = 128 akan menghasilkan citra:
+a.Seluruhnya putih
+b.Seluruhnya hitam
+c.75 persen putih dan 25 persen hitam
+d.25 persen putih dan 75 persen hitam
+e.50% putih dan 50% hitam
+
+
+Jawaban :a
+
+4. Salah satu penapis nirlanjar (non-linear) dalam ranah spasial adalah
+a.Gaussian Filter
+b.Mean flter (averaging flter)
+c.Ideal flter
+d.Median flter
+e.high-pass flter
+
+Jawaban :d
+
+5.  Citra bergerak merupakan ..
+a. Pathfinder
+b. Layer
+c. Transform
+d. Artboard
+e. Stroke
+
+Jawaban :a
+
+Soal Pilihan Ganda (playboy/selingkuh/istri 4/multiple choice)
+
+6. Mana yang merupakan penapis lolos-rendah?
+a.[-1 -1 -1; -1 9 -1; -1 -1 -1]
+b.[0 -1 0; -1 5 -1; 0 -1 0]
+c.1/9[1 1 1; 1 1 1; 1 1 1]
+d.1/16[1 2 1; 2 4 2; 1 2 1]
+e.c dan d benar
+
+Jawaban : e (c dan d benar)
+
+7. Untuk mendapatkan citra yang blur (kabur), maka penapis dalam ranah
+frekuensi yang dapat digunakan adalah
+a.Butterworth lowpass filter
+b.Butterworth high pass filter
+c. Ideal lowpass filter
+d.a,c dan e benar
+e.Gaussian lowpass filter
+
+Jawaban : d (a,c dan e benar)
+
+8. Efek bergetar (ringing) pada hasil penapisan dalam ranah frekuensi adalah
+karakteristik penapis:
+a.Ideal lowpass filter
+b.Ideal highpass filter
+c.Gaussian lowpass filter
+d.Gaussian highpass filter
+e.A dan B keduanya benar
+Jawaban : a
+
+9. Misalkan f(x,y) dan h(x,y) adalah sinyal dalam ranah spasial, F(u,v) dan
+H(u,v) adalah sinyal dalam ranah frekuensi, maka pernyataan yang benar
+adalah
+a. g(x,y) = h(x,y)*f(x,y) <---> G(u,v) = H(u,v)F(u,v)
+b. g(x,y) = h(x,y)f(x,y) <--> G(u,v) = H(u,v) * F(u,v
+c. g(x,y) = h(x,y)*f(x,y) <---> G(u,v) = H(u,v)* F(u,v)
+d. g(x,y) = h(x,y) + f(x,y) <---> G(u,v) = H(u,v) + F(u,v)
+e. a dan b benar
+Jawaban : e (a dan b benar) 
+
+10. Diberikan sinyal f, g, dan h, dan konstanta c. Manakah yang BUKAN sifat
+konvolusi?
+a.(f * g) * h = f * (g * h)
+b.f * (cg) = c(f*g)
+c.f * (g + h) = f * g + f * h
+d.f . (g * h) = f . g * f . h
+e.Tidak ada jawaban yang benar
+
+Jawaban : d
+
+
+11.  Menyangkut bentuk (unsur yang mendasar) dan susunan atau struktur merupakan 
+pengertian dari Wujud atau rupa
+
+Jawaban :Benar
+
+12. Penyajian suatu karya grafis sangat dipengaruhi oleh tiga hal, diantaranya Bakat, ketrampilan, dan media 
+
+Jawaban :Benar
+
+13. Dalam elemen - elemen grafis terdiri dari beberapa unsur, salah satunya adalah garis. 
+Pengertian garis adalah Sekumpulan titik berwarna hitam yang berdampingan sejajar dan saling berjauhan
+
+Jawaban :Salah
+
+14. Memberi kesan sugesti kesenangan atau sesuatu yang bergerak merupakan fungsi garis Vertikal 
+Jawaban :Salah
+
+15. Penerapan warna CMYK dapat ditemukan pada Industri percetakan offset
+Jawaban :Benar
+
+
